@@ -166,7 +166,16 @@ function ListGroup() {
 
   return (
     <div className="container mt-4">
-      <h1 style={{ color: "black", fontSize: "2rem", textAlign: "center", textDecoration: "underline" }}>Explore Global Cities</h1>
+      <h1
+        style={{
+          color: 'black',
+          fontSize: '2rem',
+          textAlign: 'center',
+          textDecoration: 'underline',
+        }}
+      >
+        Explore Global Cities
+      </h1>
       {cities.length === 0 && <p className="text-danger">No cities found</p>}
       <ul className="list-group mt-3">
         {cities.map((city) => (
