@@ -1,6 +1,7 @@
 body {
     background:#bc6a6a;
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 1.5rem;
   }
   
   .container {
