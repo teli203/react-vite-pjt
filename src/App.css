@@ -15,6 +15,10 @@ body {
     font-size: 2rem;
     font-weight: bold;
   }
+
+  .title {
+    color: #000203;
+  }
   
   .card {
     background: #f9e3e3e1;
