@@ -1,5 +1,6 @@
 <img width="472" alt="Image" src="https://github.com/user-attachments/assets/0bcd0a19-d3bb-48ae-a0a1-90010559f0ea" />
 
+- Visit the website [Global Cities](https://react-vite-pjt.vercel.app/) ✈️
 
 # Global Explorer
 
