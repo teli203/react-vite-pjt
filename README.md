@@ -1,3 +1,6 @@
+<img width="472" alt="Image" src="https://github.com/user-attachments/assets/0bcd0a19-d3bb-48ae-a0a1-90010559f0ea" />
+
+
 # Global Explorer
 
 Global Explorer is a web app built with React, Vite, and TypeScript that allows users to search for global cities, discover nearby attractions, and learn about local holidays. The app provides users with a seamless way to explore destinations around the world and plan their trips efficiently.
