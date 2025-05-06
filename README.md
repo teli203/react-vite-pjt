@@ -15,7 +15,7 @@ Global Explorer is a web app built with React, Vite, and TypeScript that allows 
 - React: A JavaScript library for building user interfaces.
 - Vite: A fast build tool for modern web projects.
 - TypeScript: A superset of JavaScript that adds static typing for better maintainability.
-- API Integration: The app fetches real-time data for cities, attractions, and holidays from various APIs.
+- API Integration: The app fetches real time data for cities, attractions, and holidays from various APIs.
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
